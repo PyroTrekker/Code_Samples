@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1427320586 source:c:\users\graham\desktop\chapter_14_assignment\main.cpp
+	<iostream>
+	"VerifyDate.h"
+
+1427318850 c:\users\graham\desktop\chapter_14_assignment\verifydate.h
+	<iostream>
+
+1427321162 source:c:\users\graham\desktop\chapter_14_assignment\verifydate.cpp
+	"VerifyDate.h"
+	<cstdlib>
+	<iostream>
+
+1427308243 source:c:\users\graham\desktop\chapter_14_assignment\verifydate.h
+
