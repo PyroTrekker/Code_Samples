@@ -1,0 +1,20 @@
+E:\IT Programmer Analyst\2nd semester\Visual Basic\Final\Sudoku\Sudoku\bin\Debug\Sudoku.exe
+E:\IT Programmer Analyst\2nd semester\Visual Basic\Final\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+E:\IT Programmer Analyst\2nd semester\Visual Basic\Final\Sudoku\Sudoku\bin\Debug\Sudoku.xml
+E:\IT Programmer Analyst\2nd semester\Visual Basic\Final\Sudoku\Sudoku\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\IT Programmer Analyst\2nd semester\Visual Basic\Final\Sudoku\Sudoku\obj\x86\Debug\Sudoku.Resources.resources
+E:\IT Programmer Analyst\2nd semester\Visual Basic\Final\Sudoku\Sudoku\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\IT Programmer Analyst\2nd semester\Visual Basic\Final\Sudoku\Sudoku\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\IT Programmer Analyst\2nd semester\Visual Basic\Final\Sudoku\Sudoku\obj\x86\Debug\Sudoku.exe
+E:\IT Programmer Analyst\2nd semester\Visual Basic\Final\Sudoku\Sudoku\obj\x86\Debug\Sudoku.xml
+E:\IT Programmer Analyst\2nd semester\Visual Basic\Final\Sudoku\Sudoku\obj\x86\Debug\Sudoku.pdb
+E:\IT Programmer Analyst\2nd semester\Visual Basic\Final\Sudoku\Sudoku\obj\x86\Debug\Sudoku.frmLogin.resources
+E:\IT Programmer Analyst\2nd semester\Visual Basic\Final\Sudoku\Sudoku\obj\x86\Debug\Sudoku.frmRegister.resources
+E:\IT Programmer Analyst\2nd semester\Visual Basic\Final\Sudoku\Sudoku\obj\x86\Debug\Sudoku.frmSudoku.resources
+E:\IT Programmer Analyst\2nd semester\Visual Basic\Final\Sudoku\Sudoku\obj\x86\Debug\Sudoku.frmPuzzleOptions.resources
+E:\IT Programmer Analyst\2nd semester\Visual Basic\Final\Sudoku\Sudoku\obj\x86\Debug\Sudoku.frmScores.resources
+E:\IT Programmer Analyst\2nd semester\Visual Basic\Final\Sudoku\Sudoku\bin\Debug\Sudoku.exe.config
+E:\IT Programmer Analyst\2nd semester\Done\Visual Basic\Week 8\Final\Sudoku\Sudoku\bin\Debug\Sudoku.exe.config
+E:\IT Programmer Analyst\2nd semester\Done\Visual Basic\Week 8\Final\Sudoku\Sudoku\obj\x86\Debug\Sudoku.exe
+E:\IT Programmer Analyst\2nd semester\Done\Visual Basic\Week 8\Final\Sudoku\Sudoku\obj\x86\Debug\Sudoku.xml
+E:\IT Programmer Analyst\2nd semester\Done\Visual Basic\Week 8\Final\Sudoku\Sudoku\obj\x86\Debug\Sudoku.pdb
