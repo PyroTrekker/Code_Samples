@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+}
+
+#input {
+    
+    position: absolute;
+    top: 150px;
+    left: 300px;
+    width: 300px;
+}
+
+#submit {
+
+    top: 200px;
+    left: 370px;
+    
+}
+
+.submit {
+
+    position: absolute;
+    border: none;
+    background-image: url("../img/button.png");
+    background-color: #fff;
+    height: 167px;
+    width: 167px;
+
+}

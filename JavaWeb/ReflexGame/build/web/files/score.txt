@@ -1,0 +1,4 @@
+fish:12
+fry:11
+fried:11
+buns:15
